@@ -19,6 +19,5 @@ docker logs   | Fetch the logs of a container
 docker wait   | Block until one or more containers stop, then print their exit codes
 docker version    | Show the Docker version information
 
-[Back](page2.md)
-
-[Next](page4.md)
+[Back](page2.md)|[Next](page4.md)
+----------------|----------------
