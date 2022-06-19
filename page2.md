@@ -14,6 +14,7 @@ Installation
 3. _Configure where the Docker daemon listens for connections._
 4. _Manually create the system unit files._
 
-[Back](page1.md)
 
-[Next](page3.md)
+
+[Back](page1.md)|[Next](page3.md)
+----------------|----------------
