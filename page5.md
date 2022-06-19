@@ -5,6 +5,5 @@
 <img width="707" alt="example3" src="https://user-images.githubusercontent.com/106461040/174488169-c127820a-1e7f-4840-a756-2210c2c8e616.png">
 <img width="714" alt="example4" src="https://user-images.githubusercontent.com/106461040/174488235-13b795bb-a11a-43f1-96ef-9e4a0e4047fe.png">
 
-[Back](page4.md)
-
-[Exit](README.md)
+[Back](page4.md)|[Exit](README.md)
+----------------|-----------------
