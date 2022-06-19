@@ -1,6 +1,6 @@
 # OS-Term-Paper-Docker-mysql-php-apache-tutorial-G11 :rocket:
 
-## Docker Tutorial
+## Docker Tutorials
 This is a project to create a tutorial on how to deploy a complete Apache/ NGINX, PHP, MONGODB/MYSQL and PHYMYADMIN service on OS platform.
 
 The main contributor of this tutorial are:
